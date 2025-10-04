@@ -1,4 +1,3 @@
-<!--
 **francescoitalo-esposito/francescoitalo-esposito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # 🛡️Francesco Italo Esposito - Cybersecurity Professional
 
@@ -97,4 +96,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
