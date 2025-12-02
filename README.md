@@ -1,5 +1,5 @@
 
-# 🛡️Francesco Italo Esposito - Cybersecurity Professional
+# 🛡️Francesco Italo Esposito - Cybersecurity Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francesco-italo-esposito-615b26387/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francescoitaloesposito@gmail.com)
@@ -7,8 +7,7 @@
 ## 👨‍💻 About Me
 
 🎓 **Computer Engineering Graduate** specialized in **Cybersecurity**  
-🔐 **Focus Areas**: Network Security, Cryptography, SIEM monitoring
-
+🔐 **Focus Areas**: Network Security, Cryptography, SIEM monitoring                         
 🌍 **Location**: Italy  
  
 
