@@ -78,7 +78,7 @@ Cybersecurity controls for data protection compliance
 
 ## 📈 Current Focus
 
-🎯 **2025 Goals**:
+🎯 **2026 Goals**:
 - Complete CompTIA Security+ certification
 - Publish advanced cryptography implementations
 - Contribute to open-source security tools
