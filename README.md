@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 **Computer Engineering Graduate** specialized in **Cybersecurity**  
+🎓 **Computer Engineering Graduate** specialized in **Cybersecurity, CyberRisk and DataProtection**  
 🔐 **Focus Areas**: Network Security, Cryptography, SIEM monitoring                         
 🌍 **Location**: Italy  
  
