@@ -6,10 +6,10 @@
 
 ## 👨‍💻 About Me
 
-🎓 **Computer Engineering Graduate** specializing in **Cybersecurity**  
+🎓 **Computer Engineering Graduate** specialized in **Cybersecurity**  
 🔐 **Focus Areas**: Network Security, Cryptography, Penetration Testing  
 🌍 **Location**: Italy  
-📚 **Currently**: Cybersecurity Specialization Course  
+ 
 
 > *"Passionate about securing digital infrastructures through advanced cryptographic implementations and ethical hacking methodologies"*
 
@@ -28,9 +28,9 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
 ### **Research Specializations**
-- 🔐 **Post-Quantum Cryptography** (CRYSTALS-Kyber, CRYSTALS-Dilithium)
+- 🔐 **Cybersecurity basics**
 - 📐 **Elliptic Curve Cryptography** (Mathematical Implementation)
-- 🛡️ **Network Reconnaissance & Penetration Testing**
+- 🛡️ **Network Reconnaissance & SIEM lab experience**
 - 📊 **GDPR Compliance & Data Protection**
 
 ## 📁 Featured Projects
