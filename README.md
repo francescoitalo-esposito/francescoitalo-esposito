@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me
 
 🎓 **Computer Engineering Graduate** specialized in **Cybersecurity**  
-🔐 **Focus Areas**: Network Security, Cryptography, SIEM monitoring 
+🔐 **Focus Areas**: Network Security, Cryptography, SIEM monitoring
 🌍 **Location**: Italy  
  
 
@@ -37,7 +37,7 @@
 
 ### 🏠 [Cybersecurity Home Lab](./projects/home-lab)
 Complete virtualized cybersecurity testing environment
-- **Tech Stack**: VirtualBox, Kali Linux, Windows, pfSense
+- **Tech Stack**: VirtualBox, Kali Linux, Windows, Wazuh
 - **Features**: Network segmentation, SIEM integration, vulnerability scanning
 - **Skills**: Network Architecture, SIEM Configuration, Incident Response
 
@@ -47,9 +47,9 @@ Custom Python-based network reconnaissance tool
 - **Features**: Port scanning, service detection, vulnerability identification
 - **Skills**: Python Programming, Network Protocols, Security Assessment
 
-### 🔐 [Post-Quantum Cryptography Research](./projects/pqc-research)
+### 🔐 [Cryptography Algorithms Research](./projects/pqc-research)
 Academic research on quantum-resistant algorithms
-- **Focus**: CRYSTALS-Kyber key exchange implementation
+- **Focus**: Cryptography algorithms key exchange implementation
 - **Analysis**: Performance comparison vs traditional RSA/ECC
 - **Skills**: Cryptographic Analysis, Mathematical Modeling, Technical Writing
 
@@ -62,9 +62,9 @@ Cybersecurity controls for data protection compliance
 ## 🎓 Education & Certifications
 
 - 🎓 **Bachelor's Degree** - Computer Engineering
-- 📜 **Cybersecurity Specialization** - Currently enrolled
-- 🏆 **In Progress**: CompTIA Security+ (Planned 2025)
-- 🔬 **Research**: Post-Quantum Cryptography algorithms
+- 📜 **Cybersecurity Specialization**
+- 🏆 **In Progress**: CompTIA Security+ (Planned 2026)
+- 🔬 **Research**: Cryptography Algorithms
 
 ## 🌐 Learning Platforms
 
