@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me
 
 🎓 **Computer Engineering Graduate** specialized in **Cybersecurity**  
-🔐 **Focus Areas**: Network Security, Cryptography, Penetration Testing  
+🔐 **Focus Areas**: Network Security, Cryptography, SIEM monitoring 
 🌍 **Location**: Italy  
  
 
